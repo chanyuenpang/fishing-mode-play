@@ -1,0 +1,34 @@
+{
+  "generation": "built-in image_gen, transparent background; original alpha preserved",
+  "layout": "2x2, row-major, four frames",
+  "assets": {
+    "goldenGain": {
+      "file": "golden-gain-burst.png",
+      "width": 1254,
+      "height": 1254,
+      "tileWidth": 627,
+      "tileHeight": 627,
+      "pivot": [313.5, 313.5],
+      "suggestedFrameMs": [45, 65, 90, 100]
+    },
+    "tealGrowth": {
+      "file": "teal-growth-rise.png",
+      "width": 1254,
+      "height": 1254,
+      "tileWidth": 627,
+      "tileHeight": 627,
+      "pivot": [313.5, 313.5],
+      "suggestedFrameMs": [65, 80, 95, 110]
+    },
+    "waterBreak": {
+      "file": "water-break-splash.png",
+      "width": 1254,
+      "height": 1254,
+      "tileWidth": 627,
+      "tileHeight": 627,
+      "pivot": [313.5, 313.5],
+      "waterlineNormalizedY": 0.755,
+      "suggestedFrameMs": [40, 65, 95, 110]
+    }
+  }
+}

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="geometricPrecision">
- <defs><linearGradient id="brass" x2="0" y2="1"><stop stop-color="#ffe8aa"/><stop offset="1" stop-color="#a26337"/></linearGradient><linearGradient id="steel" x2="0" y2="1"><stop stop-color="#c5d9dd"/><stop offset="1" stop-color="#527183"/></linearGradient></defs>
- <path d="m54 17 20 1 3 11 12 5 11-4 13 16-7 9 1 13 9 8-8 19-12-1-10 8-2 12-21 3-5-11-12-5-11 4-13-16 7-10-1-12-10-8 9-19 12 1 10-8z" fill="url(#brass)" stroke="#182b36" stroke-width="6" stroke-linejoin="round"/>
- <circle cx="65" cy="67" r="28" fill="#274551" stroke="#e9c384" stroke-width="4"/><circle cx="65" cy="67" r="12" fill="url(#steel)" stroke="#102a36" stroke-width="4"/>
- <path d="M28 24h34v16H43v25l-15 9z" fill="url(#steel)" stroke="#162f3b" stroke-width="5" stroke-linejoin="round"/>
- <path d="m23 19 15-7 15 7M18 34l7-7" fill="none" stroke="#b7ebe2" stroke-width="5" stroke-linecap="square"/>
- <path d="m78 47 12 13-14 4" fill="none" stroke="#f8dfa5" stroke-width="5"/>
- <path d="m66 77 16 18" stroke="#c4dce0" stroke-width="6"/><circle cx="83" cy="97" r="8" fill="#7d5235" stroke="#182b36" stroke-width="4"/>
-</svg>
